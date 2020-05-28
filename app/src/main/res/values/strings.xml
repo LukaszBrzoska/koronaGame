@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">koronaGame</string>
+    <string name="highScore">najlepszy wynik</string>
+</resources>

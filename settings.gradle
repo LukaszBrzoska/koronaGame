@@ -1,0 +1,2 @@
+rootProject.name='koronaGame'
+include ':app'
